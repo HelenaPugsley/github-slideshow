@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Did you know that 2 + 2 = fish!
 Use the left arrow to go back!
